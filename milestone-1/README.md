@@ -16,4 +16,5 @@ The major tasks here can be broken down into:
 3) Storing the processed dataset to a new bucket which will act as the training set for machine learning models.
 4) Training machine learning models and finding out the best prediction system through cross-validation.
 5) Creating an API that takes parameters such as start and ending location and time of travel and receive a prediction.
+
 Verification of this data pipeline would depend on the accuracy of the machine learning models as well as the scalability of our data pipeline to large amounts of data. 
